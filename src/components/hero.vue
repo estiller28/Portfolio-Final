@@ -5,7 +5,7 @@
       </div>
       <div class="hero-container" data-aos="fade-in">
         <h1>Daniel Estiller</h1>
-        <p>I'm <span class="typed" data-typed-items="Front end Developer, Web Artisan, Freelancer"></span></p>
+        <p>I'm <span class="typed" data-typed-items="Laravel Developer, Web Artisan, Freelancer"></span></p>
       </div>
     </section>
 </template>
