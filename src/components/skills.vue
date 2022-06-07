@@ -17,7 +17,7 @@
             </div>
 
             <div class="progress" data-aos="fade-right" data-aos-delay="50">
-              <span class="skill">CSS <i class="val">70%</i></span>
+              <span class="skill">CSS <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar css"></div>
               </div>
@@ -40,7 +40,7 @@
             </div>
 
             <div class="progress" data-aos="fade-left" data-aos-delay="200">
-              <span class="skill">WordPress/CMS <i class="val">20%</i></span>
+              <span class="skill">Laravel <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar cms"></div>
               </div>
@@ -55,7 +55,6 @@
           </div>
         </div>
       </div>
-      
     </section>
 </template>
 
