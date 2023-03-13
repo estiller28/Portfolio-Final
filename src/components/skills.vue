@@ -17,14 +17,14 @@
             </div>
 
             <div class="progress" data-aos="fade-right" data-aos-delay="50">
-              <span class="skill">CSS <i class="val">85%</i></span>
+              <span class="skill">CSS <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar css"></div>
               </div>
             </div>
 
             <div class="progress" data-aos="fade-right" data-aos-delay="100">
-              <span class="skill">JavaScript <i class="val">50%</i></span>
+              <span class="skill">JavaScript <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar js"></div>
               </div>
@@ -33,14 +33,14 @@
 
           <div class="col-lg-6">
             <div class="progress" data-aos="fade-left" data-aos-delay="150">
-              <span class="skill">PHP <i class="val">40%</i></span>
+              <span class="skill">PHP <i class="val">80</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar php"></div>
               </div>
             </div>
 
             <div class="progress" data-aos="fade-left" data-aos-delay="200">
-              <span class="skill">Laravel <i class="val">60%</i></span>
+              <span class="skill">Laravel <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar cms"></div>
               </div>
